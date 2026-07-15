@@ -21,16 +21,16 @@
       "fields": [
         { "key": "Proficient", "value": "C, C++, Python" },
         { "key": "Familiar", "value": "JavaScript, HTML, CSS, Dart" },
-        { "key": "Tools", "value": "Docker, Git, Flutter, Linux, Django, LangChain, Azure" }
+        { "key": "Tools", "value": "Docker, Git, Flutter, Linux, Django, Azure" }
       ]
     },
     {
       "title": "- Contact",
       "fields": [
         { "key": "Email", "value": "darpanbaviskar@gmail.com" },
-        { "key": "LinkedIn", "value": "https://www.linkedin.com/in/darpan-baviskar-81449731a/" },
-        { "key": "Portfolio", "value": "https://www.darpanbaviskar.dev" },
-        { "key": "Twitter", "value": "https://x.com/DarpanBaviskar" }
+        { "key": "LinkedIn", "value": "Darpan Baviskar" },
+        { "key": "Portfolio", "value": "www.darpanbaviskar.dev" },
+        { "key": "Twitter", "value": "DarpanBaviskar" }
       ]
     }
   ],
