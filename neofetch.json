@@ -1,0 +1,47 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "Darpan Baviskar" },
+        { "key": "Institute", "value": "IIT Jodhpur - B.Tech CSE" },
+        { "key": "Location", "value": "{{location}}" },
+        { "key": "Created", "value": "{{created}}" },
+        { "key": "Uptime", "value": "{{uptime}}" }
+      ]
+    },
+    {
+      "title": "- Currently",
+      "fields": [
+        { "key": "Building", "value": "Flutter app for Liquid Galaxy (GSoC 2026)" },
+      ]
+    },
+    {
+      "title": "- Languages & Tools",
+      "fields": [
+        { "key": "Proficient", "value": "C, C++, Python" },
+        { "key": "Familiar", "value": "JavaScript, HTML, CSS, Dart" },
+        { "key": "Tools", "value": "Docker, Git, Flutter, Linux, Django, LangChain, Azure" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "darpanbaviskar@gmail.com" },
+        { "key": "LinkedIn", "value": "https://www.linkedin.com/in/darpan-baviskar-81449731a/" },
+        { "key": "Portfolio", "value": "www.darpanbaviskar.dev" },
+        { "key": "Twitter", "value": "https://x.com/DarpanBaviskar" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
+      { "left": { "key": "Issues", "value": "{{issues}}" }, "right": { "key": "PRs", "value": "{{prs}}" } },
+      "loc"
+    ]
+  }
+}
