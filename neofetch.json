@@ -1,41 +1,48 @@
 {
+  "backgroundColor": "#f6f8fa, #0d1117",
+  "separatorColor": "#57606a, #8b949e",
   "sections": [
     {
       "title": "{{username}}@github",
+      "titleColor": { "text": "#0969DA, #58A6FF", "line": "#57606a, #8b949e" },
       "fields": [
-        { "key": "Name", "value": "Darpan Baviskar" },
-        { "key": "Institute", "value": "IIT Jodhpur - B.Tech CSE" },
-        { "key": "Location", "value": "{{location}}" },
-        { "key": "Created", "value": "{{created}}" },
-        { "key": "Uptime", "value": "{{uptime}}" }
+        { "key": "Name", "value": "Darpan Baviskar", "keyColor": "#0969DA, #58A6FF", "valueColor": "#24292f, #c9d1d9" },
+        { "key": "Institute", "value": "IIT Jodhpur - B.Tech CSE", "keyColor": "#0969DA, #58A6FF", "valueColor": "#24292f, #c9d1d9" },
+        { "key": "Location", "value": "{{location}}", "keyColor": "#0969DA, #58A6FF", "valueColor": "#24292f, #c9d1d9" },
+        { "key": "Created", "value": "{{created}}", "keyColor": "#0969DA, #58A6FF", "valueColor": "#24292f, #c9d1d9" },
+        { "key": "Uptime", "value": "{{uptime}}", "keyColor": "#0969DA, #58A6FF", "valueColor": "#24292f, #c9d1d9" }
       ]
     },
     {
       "title": "- Currently",
+      "titleColor": { "text": "#1A7F37, #3FB950", "line": "#57606a, #8b949e" },
       "fields": [
-        { "key": "Building", "value": "Flutter app for Liquid Galaxy (GSoC 2026)" }
+        { "key": "Building", "value": "Flutter app for Liquid Galaxy (GSoC 2026)", "keyColor": "#1A7F37, #3FB950", "valueColor": "#24292f, #c9d1d9" }
       ]
     },
     {
       "title": "- Languages & Tools",
+      "titleColor": { "text": "#9A6700, #D4A72C", "line": "#57606a, #8b949e" },
       "fields": [
-        { "key": "Proficient", "value": "C, C++, Python" },
-        { "key": "Familiar", "value": "JavaScript, HTML, CSS, Dart" },
-        { "key": "Tools", "value": "Docker, Git, Flutter, Linux, Django, Azure" }
+        { "key": "Proficient", "value": "C, C++, Python", "keyColor": "#9A6700, #D4A72C", "valueColor": "#24292f, #c9d1d9" },
+        { "key": "Familiar", "value": "JavaScript, HTML, CSS, Dart", "keyColor": "#9A6700, #D4A72C", "valueColor": "#24292f, #c9d1d9" },
+        { "key": "Tools", "value": "Docker, Git, Flutter, Linux, Django, Azure", "keyColor": "#9A6700, #D4A72C", "valueColor": "#24292f, #c9d1d9" }
       ]
     },
     {
       "title": "- Contact",
+      "titleColor": { "text": "#CF222E, #FF7B72", "line": "#57606a, #8b949e" },
       "fields": [
-        { "key": "Email", "value": "darpanbaviskar@gmail.com" },
-        { "key": "LinkedIn", "value": "Darpan Baviskar" },
-        { "key": "Portfolio", "value": "www.darpanbaviskar.dev" },
-        { "key": "Twitter", "value": "DarpanBaviskar" }
+        { "key": "Email", "value": "darpanbaviskar@gmail.com", "keyColor": "#CF222E, #FF7B72", "valueColor": "#24292f, #c9d1d9" },
+        { "key": "LinkedIn", "value": "Darpan Baviskar", "keyColor": "#CF222E, #FF7B72", "valueColor": "#24292f, #c9d1d9" },
+        { "key": "Portfolio", "value": "www.darpanbaviskar.dev", "keyColor": "#CF222E, #FF7B72", "valueColor": "#24292f, #c9d1d9" },
+        { "key": "Twitter", "value": "DarpanBaviskar", "keyColor": "#CF222E, #FF7B72", "valueColor": "#24292f, #c9d1d9" }
       ]
     }
   ],
   "stats": {
     "title": "- GitHub Stats",
+    "titleColor": { "text": "#8250DF, #BC8CFF", "line": "#57606a, #8b949e" },
     "rows": [
       { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
       { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
