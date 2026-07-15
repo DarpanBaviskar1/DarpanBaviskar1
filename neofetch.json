@@ -13,7 +13,7 @@
     {
       "title": "- Currently",
       "fields": [
-        { "key": "Building", "value": "Flutter app for Liquid Galaxy (GSoC 2026)" },
+        { "key": "Building", "value": "Flutter app for Liquid Galaxy (GSoC 2026)" }
       ]
     },
     {
@@ -29,7 +29,7 @@
       "fields": [
         { "key": "Email", "value": "darpanbaviskar@gmail.com" },
         { "key": "LinkedIn", "value": "https://www.linkedin.com/in/darpan-baviskar-81449731a/" },
-        { "key": "Portfolio", "value": "www.darpanbaviskar.dev" },
+        { "key": "Portfolio", "value": "https://www.darpanbaviskar.dev" },
         { "key": "Twitter", "value": "https://x.com/DarpanBaviskar" }
       ]
     }
