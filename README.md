@@ -1,1 +1,1 @@
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=DarpanBaviskar1&https://github.com/DarpanBaviskar1/DarpanBaviskar1/blob/main/neofetch.json)
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=DarpanBaviskar1&config=https%3A%2F%2Fraw.githubusercontent.com%2FDarpanBaviskar1%2FDarpanBaviskar1%2Fmain%2Fneofetch.json)
